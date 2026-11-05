@@ -36,7 +36,7 @@ Source: [Students Performance in Exams – Kaggle](https://www.kaggle.com/datase
 - `StudentsPerformance.csv` – Dataset used in the project.
 
 ## 7. Key Findings
-To be updated after completing the analysis.
+The analysis gave the analysis of mean, distribution and correlation between the data with the clear visualizations of the charts.
 
 ## 8. Learning Outcomes
 This project helped me develop practical skills in Python, data exploration, statistical analysis and data visualisation.
